@@ -1,0 +1,14 @@
+body{
+    background: #1f1e1e;
+}
+a{
+    text-decoration: none;
+    font-size: large;
+    color: aliceblue;
+}
+h1{
+    color:rgb(255, 255, 255);
+}
+/* body{
+    background-image: url(https://img.freepik.com/free-vector/binary-code-pattern-dark-blue-background_53876-116183.jpg?size=626&ext=jpg&ga=GA1.1.375459536.1707808335&semt=ais);
+} */
